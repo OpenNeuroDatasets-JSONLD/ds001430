@@ -1,0 +1,16 @@
+filename	acq_time
+func/sub-23_task-phase1_run-01_bold.nii.gz	1877-10-25T16:32:48
+func/sub-23_task-phase1_run-02_bold.nii.gz	1877-10-25T16:37:15
+func/sub-23_task-phase1_run-03_bold.nii.gz	1877-10-25T16:42:09
+func/sub-23_task-phase1_run-04_bold.nii.gz	1877-10-25T16:46:34
+func/sub-23_task-phase2_run-01_bold.nii.gz	1877-10-25T16:53:23
+func/sub-23_task-phase3_run-01_bold.nii.gz	1877-10-25T17:05:51
+func/sub-23_task-phase3_run-02_bold.nii.gz	1877-10-25T17:18:02
+func/sub-23_task-loc_run-01_bold.nii.gz	1877-10-25T17:29:43
+func/sub-23_task-loc_run-02_bold.nii.gz	1877-10-25T17:37:16
+func/sub-23_task-loc_run-03_bold.nii.gz	1877-10-25T17:43:14
+fmap/sub-23_phasediff.nii.gz	1877-10-25T17:59:35
+fmap/sub-23_magnitude1.nii.gz	1877-10-25T17:59:34
+fmap/sub-23_magnitude2.nii.gz	1877-08-07T17:57:26
+anat/sub-23_FLASH.nii.gz	1877-10-25T18:00:22
+anat/sub-23_T1w.nii.gz	1877-10-25T17:57:06
