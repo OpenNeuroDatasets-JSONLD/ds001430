@@ -1,0 +1,16 @@
+filename	acq_time
+func/sub-14_task-phase1_run-01_bold.nii.gz	1877-08-31T18:23:34
+func/sub-14_task-phase1_run-02_bold.nii.gz	1877-08-31T18:28:29
+func/sub-14_task-phase1_run-03_bold.nii.gz	1877-08-31T18:33:15
+func/sub-14_task-phase1_run-04_bold.nii.gz	1877-08-31T18:39:53
+func/sub-14_task-phase2_run-01_bold.nii.gz	1877-08-31T18:46:29
+func/sub-14_task-phase3_run-01_bold.nii.gz	1877-08-31T19:03:35
+func/sub-14_task-phase3_run-02_bold.nii.gz	1877-08-31T19:14:53
+func/sub-14_task-loc_run-01_bold.nii.gz	1877-08-31T19:27:49
+func/sub-14_task-loc_run-02_bold.nii.gz	1877-08-31T19:34:15
+func/sub-14_task-loc_run-03_bold.nii.gz	1877-08-31T19:40:13
+fmap/sub-14_phasediff.nii.gz	1877-08-31T19:58:29
+fmap/sub-14_magnitude1.nii.gz	1877-08-31T19:58:29
+fmap/sub-14_magnitude2.nii.gz	1877-08-07T19:56:21
+anat/sub-14_FLASH.nii.gz	1877-08-31T19:59:09
+anat/sub-14_T1w.nii.gz	1877-08-31T19:55:25
